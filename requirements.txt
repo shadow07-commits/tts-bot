@@ -1,0 +1,10 @@
+pyTelegramBotAPI==4.14.1
+Flask==3.0.0
+openai==1.12.0
+nvidia-riva-client==2.14.0
+PyPDF2==3.0.1
+EbookLib==0.18
+beautifulsoup4==4.12.3
+pydub==0.25.1
+gunicorn==21.2.0
+langdetect==1.0.9
